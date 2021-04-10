@@ -14,7 +14,7 @@ rpois(6, 4)
 
 ### 2\. When using ‘system.time()’, what is the user time?
 
-##### The Answe is the time spent by the CPU evaluating an expression.
+##### The answer is the time spent by the CPU evaluating an expression.
 
 ### 3\. What is the class of the object defined by x \<- c(4, TRUE)?
 
